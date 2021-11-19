@@ -1,0 +1,27 @@
+.Text_Color_Green {
+	color: Green;
+	text-decoration: none;
+}
+.Text_Color_Yellow {
+	color: Yellow;
+}
+.Text_Color_Aqua {
+    color: aqua;
+}
+body {
+	background-color: black;
+	color: white;
+}
+text {
+    color: white;
+}
+.Button-Style-Personal {
+	background-color: Yellow;
+	border-color: Yellow;
+	color: purple;
+}
+.Button-DonateDonationalerts {
+	background-color: lime;
+	border-color: Lime
+}
+     
